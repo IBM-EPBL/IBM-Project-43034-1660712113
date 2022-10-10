@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="Style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+<div class="resume-main">
+	<div class="left-box">
+		<br><br>
+		<div class="profile">
+			<img src="C:\Users\neelagandan\Downloads\pic2.jpg">
+		</div>
+		<div class="content-box">
+		<h2>Profile Info</h2>
+		<hr class="hr1">
+		<p class="p1">Seeking an entry level position in an organization 
+			that would help me enhance my skills, strengthen my knowledge and realize my potential.</p>
+
+		<h3>Language:</h3>
+		<p class="p2">Tamil</p>
+		<div id="progress"></div>
+        <p class="p2">English</p>
+		<div id="progress"></div>
+		<p class="p2">Hindi</p>
+		<div id="progress1"></div>
+
+		<br>
+		<h2>Technical Skills</h2>
+		<hr class="hr1">
+		<br>
+		<div class="col-div-6"><p class="p2">HTML</p></div>
+		<div class="col-div-6">
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+		</div>
+			<div class="clearfix"></div>
+		<div class="col-div-6"><p class="p2">CSS</p></div>
+		<div class="col-div-6">
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+		</div>
+		      <div class="clearfix"></div>
+		<div class="col-div-6"><p class="p2">C</p></div>
+		<div class="col-div-6">
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle1"></i>
+		</div>
+		       <div class="clearfix"></div>
+		<div class="col-div-6"><p class="p2">Java</p></div>
+		<div class="col-div-6">
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle1"></i>
+		</div>
+			<div class="clearfix"></div>
+		<div class="col-div-6"><p class="p2">SQL</p></div>
+		<div class="col-div-6">
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle1"></i>
+		</div>
+			<div class="clearfix"></div>
+		<div class="col-div-6"><p class="p2">Bootstrap</p></div>
+		<div class="col-div-6">
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle"></i>
+			<i class="fa fa-circle circle1"></i>
+		</div>	
+	</div>
+</div>
+<div class="right-box">
+		<h1>NEELAGANDAN.L</h1>
+		<p class="p3">&nbsp;B.E CSE</p>
+
+		<br>	
+		<h2 class="heading">Education</h2>
+		<hr class="hr2">
+		<br>
+		<div class="col-div-4">
+			<p class="p5">2019-2023</p>
+			<span class="span1">B.E cse</span>
+		</div>
+		<div class="col-div-8">
+			<p class="p5"> Sri balaji chockalingam Engineering College</p>
+			<span class="span1">GPA : 8.29</span>
+		</div>
+		<div class="clearfix"></div>
+		<br>
+		<div class="col-div-4">
+			<p class="p5">2018-2019</p>
+			<span class="span1">HSC</span>
+		</div>
+		<div class="col-div-8">
+			<p class="p5">SS Higher Secondary School</p>
+			<span class="span1">Percentage : 55 %</span>
+		</div>
+		<div class="clearfix"></div>
+		<br>
+		<div class="col-div-4">
+			<p class="p5">2016-2017</p>
+			<span class="span1">SSLC</span>
+		</div>
+		<div class="col-div-8">
+			<p class="p5"> SS higher Secondary School</p>
+			<span class="span1">Percentage : 97.80 %</span>
+		</div>
+		<div class="clearfix"></div>
+
+		<br>	
+		<h2 class="heading">Academic Projects</h2>
+		<hr class="hr2">
+		<br>
+		<div class="col-div-4">
+			<p class="p5">2019-2020</p>
+			<span class="span1">C\python programming</span>
+		</div>
+		<div class="col-div-8">
+			<p class="p5">2020-2021</p>
+			<span class="span1">Online cyber security</span>
+		</div>
+		<div class="clearfix"></div>
+		<br>
+		<div class="col-div-4">
+			<p class="p5">2021-2022</p>
+			<span class="span1">personal expense tracker </span>
+		</div>
+		<div class="col-div-8">
+			<p class="p5">2022-2023</p>
+			<span class="span1">hotel management system</span>
+		</div>
+	</div>
+</div>
+
+<br>
+
+<div class="resume-main">
+	<div class="left-box">
+		
+		<div class="content-box">
+			<br><br><br><br>
+		<h2>Personal Skills</h2>
+		<hr class="hr1">
+		<br>
+		<div class="col-div-5 col5">
+			<span class="inp">• Adaptability</span>
+		</div>
+		<div class="col-div-5 col5">
+			<span class="inp">• Time Managemenet</span>
+		</div>
+		<div class="col-div-5 col5">
+			<span class="inp">• Quick learner</span>
+		</div>
+		<div class="col-div-5 col5">
+			<span class="inp">• Good Commmunication Skills</span>
+		</div>
+
+		<div class="clearfix"></div>
+		<br>
+			<h2>Area Of Interest</h2>
+		<hr class="hr1">
+		<br>
+		<div class="col-div-5 col5">
+			<span class="inp">• Software Development</span>
+		</div>
+		<div class="col-div-5 col5">
+			<span class="inp">• Webpage Design</span>
+		</div>
+		<div class="col-div-5 col5">
+			<span class="inp">• SalesForce</span>
+		</div>
+		<div class="col-div-5 col5">
+			<span class="inp">• Software Testing</span>
+		</div>
+
+			<div class="clearfix"></div>
+			<br>
+
+			<h2>Interests</h2>
+			<hr class="hr1">
+			<br>
+			<div class="col-div-5 col5">
+				<span class="inp">•	Travelling</span>
+			</div>
+			<div class="col-div-5 col5">
+				<span class="inp">• Listening to music</span>
+			</div>
+            <div class="col-div-5 col5">
+				<span class="inp">• Singing Songs</span>
+			</div>
+
+			<div class="clearfix"></div>
+			<br>
+
+			<h2>Hobbies</h2>
+			<hr class="hr1">
+			<br>
+			<div class="col-div-5 col5">
+				<span class="inp">• exercise </span>
+			</div>
+			<div class="col-div-5 col5">
+				<span class="inp">• Reading books</span>
+			</div>
+            <div class="col-div-5 col5">
+				<span class="inp">• Learning a new Language</span>
+			</div>
+		</div>
+	</div>
+
+	<div class="right-box">	
+		<h2 class="heading">Internship</h2>
+		<hr class="hr2">
+		<br>
+		</body>
+		</html>
